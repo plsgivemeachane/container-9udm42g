@@ -1,3 +1,15 @@
+# v0.0.2 (Sat Oct 28 2023)
+
+#### ⚠️ Pushed to `main`
+
+- Update app.py ([@plsgivemeachane](https://github.com/plsgivemeachane))
+
+#### Authors: 1
+
+- [@plsgivemeachane](https://github.com/plsgivemeachane)
+
+---
+
 # v0.0.1 (Mon Aug 07 2023)
 
 :tada: This release contains work from a new contributor! :tada:
