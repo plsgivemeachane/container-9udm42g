@@ -1,3 +1,15 @@
+# v0.0.6 (Sun Nov 19 2023)
+
+#### ⚠️ Pushed to `main`
+
+- Added timeout ([@plsgivemeachane](https://github.com/plsgivemeachane))
+
+#### Authors: 1
+
+- [@plsgivemeachane](https://github.com/plsgivemeachane)
+
+---
+
 # v0.0.5 (Sat Oct 28 2023)
 
 #### ⚠️ Pushed to `main`
