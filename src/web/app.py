@@ -28,6 +28,9 @@ def home():
 
 @app.route('/status')
 def status():
+    global timeouts
+    current_time = time.time()
+    timeouts = [t for t in timeouts if t['timeout'] > current_time]
     return jsonify(somefrek)
 
 @app.route('/get')
