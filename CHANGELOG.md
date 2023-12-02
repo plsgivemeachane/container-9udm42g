@@ -1,3 +1,15 @@
+# v0.0.7 (Sat Dec 02 2023)
+
+#### ⚠️ Pushed to `main`
+
+- Update entrypoint.sh ([@plsgivemeachane](https://github.com/plsgivemeachane))
+
+#### Authors: 1
+
+- [@plsgivemeachane](https://github.com/plsgivemeachane)
+
+---
+
 # v0.0.6 (Sun Nov 19 2023)
 
 #### ⚠️ Pushed to `main`
