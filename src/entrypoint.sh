@@ -1,4 +1,7 @@
 #!/bin/sh
+
+echo "Do I run this code???"
+
 set -ex
 
 # Start gunicorn, listening on port 500, access log to stdout
